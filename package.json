@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "funding": "https://github.com/sponsors/s9a",
+    "firefox": "open -a firefox index.html || start firefox index.html",
+    "start": "npm run firefox",
+    "test": "npm doctor"
+  }
+}
